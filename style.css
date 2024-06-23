@@ -110,7 +110,7 @@ iframe {
 }
 
 
-h1 {
+h1 {width: 320px;
     
     color: black;
     text-align: center;
